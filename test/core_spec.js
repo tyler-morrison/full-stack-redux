@@ -3,7 +3,7 @@ import {List, Map} from 'immutable';
 
 import {setEntries, next, vote} from '../src/core';
 
-describe("application logic", () => {
+describe("Application Logic", () => {
 
   describe("setEntries", () => {
 
